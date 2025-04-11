@@ -127,14 +127,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SrodLauncher v2.0.exe" size="77808">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SrodLauncher v2.0.exe" size="78320">
       <assemblyIdentity name="SrodLauncher v2.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>QGg5+OGE4ZCjxIxSHZqw+em23uingIq7LC29dQkee5I=</dsig:DigestValue>
+        <dsig:DigestValue>P6GuyDbw8BC151/3GytWaMPG0fGSeVygPwZ+PnTUq7U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
