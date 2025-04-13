@@ -55,6 +55,18 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CmlLib.Core.Auth.Microsoft.dll" size="39936">
+      <assemblyIdentity name="CmlLib.Core.Auth.Microsoft" version="3.2.2.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>i/dYINPmZI4h8/pHqA+daYhklKegdqCqoTx6Jvd0DOY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CmlLib.Core.Commons.dll" size="9728">
       <assemblyIdentity name="CmlLib.Core.Commons" version="4.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -67,6 +79,18 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CmlLib.Core.Installer.Forge.dll" size="63488">
+      <assemblyIdentity name="CmlLib.Core.Installer.Forge" version="1.0.1.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>3D/RL+KgdFdb99rtEBbpTARkE6uGK13Oom5qPkGoJZ0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DiscordRPC.dll" size="83968">
       <assemblyIdentity name="DiscordRPC" version="1.2.1.24" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -75,6 +99,18 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>JcOfkfc32ABAxyyeP5XbD+zhyWU/UBgorcFs+x7FnSY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HtmlAgilityPack.dll" size="169472">
+      <assemblyIdentity name="HtmlAgilityPack" version="1.11.48.0" publicKeyToken="BD319B19EAF3B43A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>7UIqTbCtj2n/9US09+t7U8xB4w4Cobklm1UvLXpJaLk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -103,6 +139,66 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Extensions.DependencyInjection.Abstractions.dll" size="64160">
+      <assemblyIdentity name="Microsoft.Extensions.DependencyInjection.Abstractions" version="8.0.0.1" publicKeyToken="ADB9793829DDAE60" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>EVZMPGSPPU+9zpibUKpMtMWNlTt87FoP6MSE589RRvM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Extensions.Logging.Abstractions.dll" size="67848">
+      <assemblyIdentity name="Microsoft.Extensions.Logging.Abstractions" version="8.0.0.1" publicKeyToken="ADB9793829DDAE60" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>GOhoM3Rb8MXGzycONJBTlz9OJ6hBD3ZSK1BPMY5NyUQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Web.WebView2.Core.dll" size="472504">
+      <assemblyIdentity name="Microsoft.Web.WebView2.Core" version="1.0.1823.32" publicKeyToken="2A8AB48044D2601E" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>xv63PsHLknHyAE0lhv4YM2IaD809BKb8Hc8IVX1jSsA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Web.WebView2.WinForms.dll" size="38328">
+      <assemblyIdentity name="Microsoft.Web.WebView2.WinForms" version="1.0.1823.32" publicKeyToken="2A8AB48044D2601E" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>/geCpjfHaYLKBAvqHrGbWQwosAaGazjXDqORmYJbZM8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Web.WebView2.Wpf.dll" size="44520">
+      <assemblyIdentity name="Microsoft.Web.WebView2.Wpf" version="1.0.1823.32" publicKeyToken="2A8AB48044D2601E" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>9mu6F7rj3zXSMwvDyiUkGSB91h9aT3JhUdV3rcLduKg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="701992">
       <assemblyIdentity name="Newtonsoft.Json" version="13.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -127,14 +223,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SrodLauncher v2.0.exe" size="167408">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SrodLauncher v2.0.exe" size="180720">
       <assemblyIdentity name="SrodLauncher v2.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>J00zkMkleNzM/YqIOBXJ8CWL5XgWA+dMe7Z4X1Pr9sw=</dsig:DigestValue>
+        <dsig:DigestValue>PxK3vNaD6pIbJcV4qZspQgHEmWo1+aquDHYdRJeo5i0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -159,6 +255,18 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>vz+4RmT0CX8aipvHGlHc+M8akF1AgKTSkNoXMIZuhW8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Net.Http.Json.dll" size="72864">
+      <assemblyIdentity name="System.Net.Http.Json" version="8.0.0.0" publicKeyToken="CC7B13FFCD2DDD51" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>VvUXNlcfaUQJrK7WCP3U179VrbAOcrxj7HPQjkPYrP8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -246,6 +354,30 @@
       </hash>
     </dependentAssembly>
   </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="XboxAuthNet.dll" size="83456">
+      <assemblyIdentity name="XboxAuthNet" version="3.0.4.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>X+AgjgQouSxH/sxyNzIAGesRM4bi81Nyy4dVLlhqftY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="XboxAuthNet.Game.dll" size="75264">
+      <assemblyIdentity name="XboxAuthNet.Game" version="1.3.2.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>BARrFafaJLS8lH/L+HlrmeI7tFXGLPURTacmWndnzdc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
   <file name="icon.ico" size="18646">
     <hash>
       <dsig:Transforms>
@@ -255,13 +387,40 @@
       <dsig:DigestValue>qR0AiP0RpncVYNTeDk7psKUmpZNnJfDjI43rcCvFFMc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="SrodLauncher v2.0.exe.config" size="1792">
+  <file name="runtimes\win-arm64\native\WebView2Loader.dll" size="135640">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>b3UvRlcIyUxTjYipHvOHC449KRzEkxAo+KKIsrQjIEI=</dsig:DigestValue>
+      <dsig:DigestValue>bHP9dbiApf3vD1AEdlMblIi888lreeoXiZtLyTG604A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\win-x64\native\WebView2Loader.dll" size="160232">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>jW/osUUp4dagKn8tWZHucqzg1+LxkBxxz9ffMQYA9ME=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\win-x86\native\WebView2Loader.dll" size="115672">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>jBsK6LfnqkAkB/APIu+xmJ5Hrqqcah/6mDQWctns9tw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="SrodLauncher v2.0.exe.config" size="2057">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>WconUSgdozuULvLr9m31+/Z2RfGwO6G/4ghk2Ucsxv4=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

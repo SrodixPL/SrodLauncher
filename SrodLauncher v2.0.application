@@ -14,14 +14,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="SrodLauncher v2.0.exe.manifest" size="14941">
+    <dependentAssembly dependencyType="install" codebase="SrodLauncher v2.0.exe.manifest" size="23847">
       <assemblyIdentity name="SrodLauncher v2.0.exe" version="1.0.0.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ZNVwp5qMzd1fT0DIyYNZn2mmE7upEbhnS5rZDivyHgs=</dsig:DigestValue>
+        <dsig:DigestValue>yxME7EnE1vi7con32Hqb6+8iJ1C9YxZgc3WTOfFumnM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
